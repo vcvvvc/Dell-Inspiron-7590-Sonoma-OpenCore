@@ -1,0 +1,18 @@
+# macOS metadata
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+
+# IDE and editor metadata
+.idea/
+.vscode/
+*.iml
+
+# Windows metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary/editor files
+*~
